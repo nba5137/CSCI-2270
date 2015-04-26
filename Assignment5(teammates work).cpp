@@ -1,4 +1,4 @@
-//Teammates work Dominicxing
+//Teammates work by Dominicxing
 #include<iostream>
 #include<fstream>
 #include<string>
