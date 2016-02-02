@@ -1,7 +1,7 @@
 // binary
 
 leaves: 2^H
-
+ 
 // search
 Tree_Search(x, k) //x is the node to evaluate and k is the value being searched for.
   if x==NIL 
