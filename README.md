@@ -1,5 +1,5 @@
 # Final-Project
-CSCI 2270 - Hoenigman - Data Structures. Final Project
+CSCI 2270 - Hoenigman - Data Structures. 
 
 // Associate with dominicxing,pengsrif,Zhli3628  
 // We are going to expand our recent homework for our project.  
