@@ -17,7 +17,7 @@ int *ArrayDynamicAllocation(int array[], int size, int number)
     return array;
 }
 
-
+ 
 //delete in array
 
 int *arrayShift(int arr[],int length, int value)
