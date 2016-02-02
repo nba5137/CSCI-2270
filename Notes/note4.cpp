@@ -16,7 +16,7 @@ void isPrime(int number)
     }
     cout << result <<endl;
 }
-
+ 
 RB-Insert(T,x)
 Tree-Insert(T,x)
 color[x] := RED
