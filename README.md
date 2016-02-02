@@ -7,6 +7,6 @@ Final-Project
 
 // How to run: Same as what we did in the homework.
 
-Notes
-// They were nice reviews for mid-terms and the final.
+Notes  
+// They were nice reviews for mid-terms and the final.  
 // Some were written by myself and the rest were searched on the internet. 
